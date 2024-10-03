@@ -29,9 +29,7 @@ The machine learning model used for gesture recognition was trained on a dataset
 - Multi-language support: Extend the system to support translation into multiple spoken languages, enabling communication with speakers of different languages.
 
 ## Contributors
-- Magendran P: Project Lead & Developer
-- Gowtham P: Machine Learning Engineer
-- Magudesh & Deena: Computer Vision Specialist
+- Agilan S: Project Lead & Developer,Machine Learning Engineer, Computer Vision Specialist
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
