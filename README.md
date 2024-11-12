@@ -31,5 +31,3 @@ The machine learning model used for gesture recognition was trained on a dataset
 ## Contributors
 - Agilan S: Project Lead & Developer,Machine Learning Engineer, Computer Vision Specialist
 
-## License
-This project is licensed under the [MIT License](LICENSE).
